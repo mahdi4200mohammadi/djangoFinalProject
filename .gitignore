@@ -1,0 +1,10 @@
+# Ignore virtual environment
+env/
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+# Ignore Django database
+db.sqlite3
+# Ignore uploaded media and static files
+media/
+staticfiles/
