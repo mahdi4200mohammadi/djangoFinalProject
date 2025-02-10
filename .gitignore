@@ -8,3 +8,4 @@ db.sqlite3
 # Ignore uploaded media and static files
 media/
 staticfiles/
+.env
